@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Finance"
+category: Economics
+tags:
+  - finance
+  - banking
+permalink: /finance/
+published: true
+---
+
+## A
+
+Predatory; serves no public function. Creates extreme wealth. De-industrialization.
+
+## B
+
+Green finance; public utility banking.
+
+## C
+
+## D
+
+[National Investment Bank](https://labour.org.uk/wp-content/uploads/2017/10/National-Investment-Bank-Plans-Report.pdf)
+[Jacobin n.31](https://jacobinmag.com/u/issues)

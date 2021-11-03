@@ -4,7 +4,7 @@ title: "Template"
 category:
 tags:
 permalink: /template/
-published: false
+published: true
 ---
 
 ## A
