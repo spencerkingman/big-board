@@ -9,6 +9,15 @@
   }
 }
 
+.post-list {
+  columns: 2;
+
+  li {
+    page-break-inside: avoid;
+    break-inside: avoid-column;
+  }
+}
+
 // named main.scss to overwrite the main.scss in minima's theme (copied to _sass for reference)
 // importing the whole of minima's styles then overwriting a few.
 @import "{{ site.theme }}";

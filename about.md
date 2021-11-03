@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The big board is a way for me to organize thoughts and ideas in pursuit of a general strategy. It is very much a work in progress. Each page is organized in the same way. The A, B, C, and D sections have the following meanings:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div class="post-content e-content" itemprop="articleBody">
+    <h2 id="a">A</h2>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p>What are the problems?</p>
 
+<h2 id="b">B</h2>
 
-[jekyll-organization]: https://github.com/jekyll
+<p>What is the ideal?</p>
+
+<h2 id="c">C</h2>
+
+<p>What is to be done?</p>
+
+<h2 id="d">D</h2>
+
+<p>What can we learn from?</p>
+
+  </div>

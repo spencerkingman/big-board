@@ -23,5 +23,5 @@ Socialists run on democratic ballot line. Create a labor or communist party. Ele
 
 ## D
 
-[Jodi Dean, _Crowds And Party_](https://publicseminar.org/2017/03/review-of-jodi-deans-crowds-and-parties/)
-[Jacobin 23](https://jacobinmag.com/u/issues)
+- [Jodi Dean, _Crowds And Party_](https://publicseminar.org/2017/03/review-of-jodi-deans-crowds-and-parties/)
+- [Jacobin 23](https://jacobinmag.com/u/issues)
