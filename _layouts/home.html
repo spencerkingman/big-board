@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%} {{ content }} {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "All" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      <div class="post-associations">
+        {% if post %} {% assign tags = post.tags %} {% assign categories =
+        post.categories %} {% else %} {% assign tags = page.tags %} {% assign
+        categories = page.categories %} {% endif %}
+        <div class="post-categories">
+          {% for category in categories %}
+          <a href="{{site.baseurl}}/categories/#{{category|slugize}}"
+            >{{category}}</a
+          >
+          <!-- {{tag}} -->
+          {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+        </div>
+        <div class="post-tags">
+          {% for tag in tags %}
+          <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+          <!-- {{tag}} -->
+          {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+        </div>
+      </div>
+
+      {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+  {%- endif -%}
+</div>
