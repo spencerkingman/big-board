@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Guns"
+category:
+  - Culture
+tags:
+  - guns
+permalink: /guns/
+published: true
+---
+
+## A
+
+More guns than people; suicide; flow to Mexico; homicide; domestic violence
+
+## B
+
+What is the ideal?
+
+## C
+
+What is to be done?
+
+## D
+
+Patrick Blanchfield

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Academia"
+category:
+  - Culture
+tags:
+  - academia
+permalink: /academia/
+published: true
+---
+
+## A
+
+Cost; Instrumentalization; More degrees than jobs
+
+## B
+
+What is the ideal?
+
+## C
+
+Investment in climate innovation; Remove profit pressures
+
+## D
+
+What can we learn from?

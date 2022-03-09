@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Internet"
+category:
+  - Culture
+tags:
+  - internet
+permalink: /internet/
+published: true
+---
+
+## A
+
+Power laws; communicative capitalism; predatory data-driven business models
+
+## B
+
+International public utility model
+
+## C
+
+Foster blogosphere; foster autonomy online
+
+## D
+
+Jodi Dean

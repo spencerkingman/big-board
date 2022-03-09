@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Art"
+category:
+  - Culture
+tags:
+  - art
+permalink: /art/
+published: true
+---
+
+## A
+
+What are the problems?
+
+## B
+
+What is the ideal?
+
+- Works Progress Admin
+- GI Bill
+- CETA
+- Norway?
+
+## C
+
+What is to be done?
+
+## D
+
+Artists:
+
+- [Vienne Chan](https://moneylab9.m-cult.org/)
+- [Ricardo Dominguez, Transborder Migrant Tool](https://anthology.rhizome.org/transborder-immigrant-tool)
+- [Tania Bruguera, Immigrant Migrant Movement](https://www.taniabruguera.com/cms/486-0-Immigrant+Movement+International.htm)
+- [Renzo Martins, Institute for Human Activity](http://www.humanactivities.org/en/)
+
+Thinkers:
+
+- Claire Bishop
