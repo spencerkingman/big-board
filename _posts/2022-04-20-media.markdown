@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Media"
+category:
+    - Culture
+tags:
+    - media
+    - journalism
+    - entertainment
+    - art
+permalink: /media/
+published: true
+---
+
+## A
+
+Consolidation; monopoly; regulatory capture; triviality and superficiality; advertising clutter; No local or community independent media available
+
+## B
+
+Regulation; anti-trust; Public infrastructure for community-based independent media; Public protection and facilitation of arts (creation and distribution);
+
+## C
+
+Re-regulation
+
+## D
+
+Nader

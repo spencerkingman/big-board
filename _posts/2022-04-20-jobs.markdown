@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Jobs"
+category:
+    - Economics
+tags:
+    - jobs
+    - work
+    - job guarantee
+    - modern monetary theory
+permalink: /jobs/
+published: true
+---
+
+## A
+
+Unemployment; Shit jobs; Precarity; The type of work available doesn't fit with what society needs
+
+## B
+
+Self-organization? Job guarantee? Meaningful, dignified work
+
+## C
+
+Green New Deal? Health, Education, Culture, Earth Rebuilding, Caring for the young, old, sick, and people with disabilities. 
+
+## D
+
+Ehrenreich, Graeber, New Deal, Modern Monetary Theory

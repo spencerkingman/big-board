@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Courts"
+category:
+    - Politics
+tags:
+    - courts
+    - law
+    - judges
+    - juries
+    - supreme court
+permalink: /courts/
+published: true
+---
+
+## A
+
+Power of judges; bad jury system; opacity of the system; difficulty of normal, non-rich people to access and navigate the system; fees and fines; Supreme Court is insulated from democratic pressures, elitist, reactionary, gerontocratic, destabilizing, lacking legitimacy, unaccountable, too powerful. The federal appointments system seems politicized but not in a rational way. 
+
+## B
+
+What is the ideal?
+
+## C
+
+Changes to the way judges are appointed and tenured. Legislative limits to their power? Professional jurists?
+
+## D
+
+_Taming Democracy_ tells an interesting story of how judicial appointments and tax collection played into the battle over the US constitution drafting and ratification.
