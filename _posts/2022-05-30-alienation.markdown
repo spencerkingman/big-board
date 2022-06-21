@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Education (secondary)"
+title: 'Alienation'
 category:
-  - Culture
+    - Culture
 tags:
-  - education (secondary)
-permalink: /education-secondary/
+    - alienation
+    - technology
+    - purposelessness
+permalink: /alienation/
 published: true
 ---
 

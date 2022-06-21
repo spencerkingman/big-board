@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "City Planning"
+title: 'City Planning'
 category: Economics
 tags:
-  - city planning
+    - city planning
 permalink: /city-planning/
 published: true
 ---
 
 ## A
 
-Sprawl, segregation, pollution, gentrification
+Sprawl, segregation, pollution, gentrification; Crowding, breakdown of commumities;
 
 ## B
 

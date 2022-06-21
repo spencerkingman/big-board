@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Sex'
+category:
+    - Culture
+tags:
+    - sex
+    - gender
+    - sex work
+    - pornography
+permalink: /sex/
+published: true
+---
+
+## A
+
+What are the problems?
+
+## B
+
+What is the ideal?
+
+## C
+
+What is to be done?
+
+## D
+
+What can we learn from?

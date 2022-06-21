@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Education (Primary)"
+title: 'Education'
 category:
-  - Culture
+    - Culture
 tags:
-  - education (primary)
-permalink: /education-primary/
+    - education
+permalink: /education/
 published: true
 ---
 
