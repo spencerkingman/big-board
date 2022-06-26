@@ -22,7 +22,7 @@ layout: default
         categories = page.categories %} {% endif %}
         <div class="post-categories">
           {% for category in categories %}
-          <a href="{{site.url}}/category/{{category|slugize}}"
+          <a href="{{relative_url}}/category/{{category|slugize}}"
             >{{category}}</a
           >
           <!-- {{tag}} -->

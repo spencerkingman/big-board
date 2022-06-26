@@ -28,9 +28,10 @@ layout: default
             <div class="col-lg-8 col-md-10 mx-auto">
                 <!-- <h2>{{page.category_name}} Posts</h2> -->
                 {% if site.categories[page.category_name] %}
-                {% for post in site.categories[page.category_name] %}
+                {% assign shuffledPosts = site.categories[page.category_name] | sample:site.categories[page.category_name].size %}
+                {%- for post in shuffledPosts -%}
                 <div class="card">
-                    <a href="{{ site.url }}{{ post.url }}" class="container">
+                    <a href="{{ post.url | relative_url }}" class="container">
                         {{post.title}}
                         <!-- <p><strong>{{ post.subtitle }}</strong></p> -->
                         <!-- <p>{{ post.excerpt | strip_html | truncatewords: 60 }}</p> -->
