@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Money"
+title: 'Money'
 category:
   - Economics
 tags:
   - money
+  - taxes
   - digital currency
   - green keynesianism
 permalink: /money/
@@ -13,15 +14,42 @@ published: true
 
 ## A
 
-Quantitative easing for corrupt financial system, but not for social and ecological needs. Unemployment. Inflation. PAYGO.
+### Scarcity Framing
+
+Pay-go logics.
+
+### Corporate Tax Avoidance
+
+- There are many tactics available to tax escapees
+  - Avoid reporting income
+  - Solicit huge IP and natural resource gifts from the government
+  - Inflate expenses
+  - Defer income indefinitely into the future
+  - Corporations are able to create paper subsidiaries or claim their profits in foreign jurisdictions (Cayman Islands, Turks and Caicos).
+- Complex tax laws in the US are easy for corporations to manipulate and maneuver in. They are also difficult for the IRS to enforce.
+  - The complexity makes it easier for politicians to include provisions in the code that benefit industries and firms that lobby them.
+    - These insertions can be made in such a way that it is hard to understand who is behind them.
+  - The IRS is not staffed in a way that allows them to investigate complex corporate tax evasion cases. As a result, most of the punitive action of the IRS is against the small-scale tax evasion of individuals.
+  - The media's capacity to investigate and report on tax law and tax cheating is also shrinking rapidly.
+- Since 1950 the share of government revenue coming from corporate income tax has shrunk from 30% to 10%, replaced mostly by regressive payroll taxes.
+  - ![](https://files.taxfoundation.org/20190314111209/PAF-Chart-41.png)
+
+### Regressive Taxation
+
+- Capital gains and dividends are taxed at a maximum of 15 percent.
+- Labor is taxed at a higher rate.
+- Regressive payroll and sales taxes are often not included in considerations of the tax burden of individual households.
+
+### Public Consciousness
+
+-
 
 ## B
-
-Carbon quantitative easing.
 
 ## C
 
 ## D
 
+- _Seventeen Solutions_ by Ralph Nader; Chapter 1
 - [Money on the Left](https://mronline.org/category/money-on-the-left/)
-- eco-currency described in Ministry For The Future.
+- Eco-currency described in _Ministry For The Future_.
