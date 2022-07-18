@@ -38,7 +38,7 @@ Pay-go logics.
 
 - Capital gains and dividends are taxed at a maximum of 15 percent.
 - Labor is taxed at a higher rate.
-- Regressive payroll and sales taxes are often not included in considerations of the tax burden of individual households.
+- Regressive payroll and sales taxes are often not included in considerations of the distribution of the tax burden.
 
 ### Public Consciousness
 
@@ -46,10 +46,39 @@ Pay-go logics.
 
 ## B
 
+### Taxes To Protect Society
+
+#### Society can use taxes to limit and discourage certain types of economic activity.
+
+##### Financial Speculation
+
+- **Financial Transaction Tax (Robin Hood Tax)** - Barbara Lee and Bernie Sanders' bill would deter unproductive, high frequency trading by levying a small tax on trades of stocks, bonds, and derivatives (0.5%, 0.1%, and 0.005% respectively). Like sales tax, this would discourage arbitrage (aka speculative resell). 40 countries already levy a similar tax. The United States did between 1916 and 1966, and currently the US levies a very small fee on some transactions. If implemented, traders may attempt to circumvent by routing transactions through foreign markets or trading options instead of stocks. They would also attempt to pass on the fees to investors, including pension and insurance funds. A tax like this could raise approximately 200 billion dollars revenue a year.
+- **Tobin Tax** - A 1% (or less) tax on spot currency trades made by banks and financial institutions that profit from market volatility by taking excessive short-term speculative positions in the currency markets. It is intended to stabilize currencies and discourage speculation. Without this protection, money can move quickly between countries depending on interest rates. A sudden currency sell-off caused by an interest rate spike elsewhere can create a crisis if the central bank does not have enough cash in reserve to balance. This unpredictability makes it hard for countries to pursue independent monetary policies. Italy currently imposes this tax, but in order to be truly effective it would have to be adopted internationally.
+- **Higher Penalties for Corporate Crime** - Stiffer fees for corporate malfeasance could deter crime by changing the cost-benefit calculation.
+
+##### Pollution
+
+- **Carbon Tax** -
+
+##### Addictive Industries
+
+- Alcohol
+- Tobacco
+- Gambling
+- Junk Food
+- Tech
+
+#### Society can use taxes to prevent the accumulation of extreme wealth and redistribute wealth more equally.
+
+### Taxes to Create Demand for the Public Currency
+
 ## C
 
 ## D
 
 - _Seventeen Solutions_ by Ralph Nader; Chapter 1
+- [Barbara Lee's Press Release on Financial Transaction Tax](https://lee.house.gov/news/press-releases/rep-lee-and-sen-sanders-introduce-tax-on-wall-street-speculation-act-to-curb-greed-)
+- https://www.citizen.org/article/wall-street-sales-tax/
+- [Investopedia: Tobin Tax](https://www.investopedia.com/terms/t/tobin-tax.asp#:~:text=The%20Tobin%20tax%20is%20a%20duty%20proposed%20on%20spot%20currency,of%20short%2Dterm%20currency%20movement.)
 - [Money on the Left](https://mronline.org/category/money-on-the-left/)
 - Eco-currency described in _Ministry For The Future_.
